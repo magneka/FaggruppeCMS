@@ -6,7 +6,9 @@ const Menu = (props) => {
 
     return (
         <div>
-            Menu
+            <Link to="/">
+                UC - meetup React driven CMS
+            </Link>
         </div>
     )
 }

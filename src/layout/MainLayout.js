@@ -13,12 +13,11 @@ const MainLayout = (props) => {
                 <HeaderArea>
                     <Menu />                    
                 </HeaderArea>                               
-                
-                {/* Approutes er komponenten der routeren swapper valget fra menyen*/}
+                               
                 <AppRoutes />
 
                 <FooterArea>
-                    Footer
+                    
                 </FooterArea>
             </RootContainer>
         </Router>
